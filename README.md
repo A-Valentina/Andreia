@@ -1,9 +1,9 @@
 # Andreia
-# 👋 Oiie, eu sou a Andréia Valentina Figueiredo Valentim 👩🏽‍💻
+# 👋 Olá, eu sou a Andréia Valentina Figueiredo Valentim 👩🏽‍💻
 
 # Meu GitHub:
 <div> 
-  <a href="https://beacons.ai/giovannaPavani">
+  <a href="https://beacons.ai/A-Valentina">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A-Valentina&show_icons=true&count_private=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Valentina&langs_count=8&layout=compact&theme=tokyonight"/>  
 </div>
