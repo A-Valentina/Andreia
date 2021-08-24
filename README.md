@@ -1,5 +1,4 @@
-# Andreia
-# 👋 Olá, eu sou a Andréia Valentina Figueiredo Valentim 👩🏽‍💻
+# Olá, eu sou a Andréia Valentina Figueiredo Valentim 👩🏽‍💻
 
 # Meu GitHub:
 <div> 
